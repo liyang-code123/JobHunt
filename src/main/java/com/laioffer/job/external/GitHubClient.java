@@ -24,10 +24,6 @@ public class GitHubClient {
 
     public List<Item> search(double lat, double lon) {
 
-
-
-        // “hello world” => “hello%20world”
-
         String url = String.format(URL_TEMPLATE, lat, lon);
 
         CloseableHttpClient httpclient = HttpClients.createDefault();
