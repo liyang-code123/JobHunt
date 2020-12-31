@@ -20,7 +20,7 @@ public class GitHubClient {
     private static final String URL_TEMPLATE = "https://jobs.github.com/positions.json?lat=%s&long=%s";
     private static final String DEFAULT_KEYWORD = "developer";
 
-    public List<Item> search(double lat, double lon) {
+    public List<Item> search(double lat, double lon, String keyword) {
 
         String url = String.format(URL_TEMPLATE, lat, lon);
 

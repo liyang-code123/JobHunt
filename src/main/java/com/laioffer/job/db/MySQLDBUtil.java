@@ -1,7 +1,5 @@
 package com.laioffer.job.db;
 
-import com.laioffer.job.Secret;
-
 public class MySQLDBUtil {
     private static final String INSTANCE = Secret.INSTANCE;
     private static final String PORT_NUM = "3306";
