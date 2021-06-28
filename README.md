@@ -1,4 +1,4 @@
-# JobHunt
+# JobHunt - A Personalized Job Recommendation Web Application
 
 ### Intro
 1. Designed and implemented an interactive web application for users to search and apply available job positions. 
