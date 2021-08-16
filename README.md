@@ -9,3 +9,7 @@
 
 ### Demo
 https://user-images.githubusercontent.com/72056697/122686589-b11b0580-d1c6-11eb-8608-99002222b170.mov
+
+### Architecture
+<img width="944" alt="Screen Shot 2021-08-15 at 9 53 54 PM" src="https://user-images.githubusercontent.com/72056697/129513063-e44e6b7c-99df-42f1-a8ea-739e8af88fb9.png">
+
