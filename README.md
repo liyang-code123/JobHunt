@@ -13,3 +13,5 @@ https://user-images.githubusercontent.com/72056697/122686589-b11b0580-d1c6-11eb-
 ### Architecture
 <img width="944" alt="Screen Shot 2021-08-15 at 9 53 54 PM" src="https://user-images.githubusercontent.com/72056697/129513063-e44e6b7c-99df-42f1-a8ea-739e8af88fb9.png">
 
+### Recommendation Design
+![Screen Shot 2021-08-17 at 8 40 37 AM](https://user-images.githubusercontent.com/72056697/129757294-e001a68f-f900-4aea-9bd2-557a4ce94800.png)
